@@ -1,6 +1,6 @@
 # Overview
 
-React_Nextagram is a user generated content website 
+React_Nextagram was coded as part of the NEXT Academy Full Stack Web Development Bootcamp. Known as the React Nextagram project, the project includes incorporating core front-end features of user generated content websites.  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
