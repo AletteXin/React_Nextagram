@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Overview
+
+React_Nextagram is a user generated content website 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
